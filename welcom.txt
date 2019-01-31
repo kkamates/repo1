@@ -1,3 +1,4 @@
 welcome to GIT.
 kanta
 practing day 4
+trying to use -am option for 2 files.
