@@ -8,3 +8,4 @@
  * because  if we are usinmg -am option we can commit without specifing the file name 
  *
  * trying again
+ * trying to commit with 2 files -am option
